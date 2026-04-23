@@ -23,7 +23,7 @@
 ## 📫 Connect with me
 
 * Email: [raishashwat14@gmail.com](mailto:raishashwat14@gmail.com)
-* LinkedIn: https://linkedin.com/in/shashwat--rai
+* LinkedIn: https://linkedin.com/in/shashwatrai
 
 ---
 
