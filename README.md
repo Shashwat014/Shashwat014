@@ -1,8 +1,7 @@
 # Hi, I'm Shashwat Rai 👋
 
-💻 MERN Stack Developer
-🌱 Currently learning: React, Node.js, MongoDB
-🚀 Interested in: Full Stack Development & Open Source
+💻 Aspiring MERN Stack Developer  
+🚀 Building full-stack web applications using React, Node.js & MongoDB
 
 ---
 
@@ -15,9 +14,9 @@
 ---
 
 ## 📌 Projects
-
-* 🔹 Working on MERN projects
-* 🔹 Building real-world applications
+- 🔹 MERN Auth App – Login/signup system with JWT authentication  
+- 🔹 Task Manager – CRUD app using React & Node.js  
+- 🔹 Portfolio Website – Personal website built with React  
 
 ---
 
