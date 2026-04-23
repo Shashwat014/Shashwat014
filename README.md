@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Shashwat Rai 👋
 
-<!--
-**Shashwat014/Shashwat014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Developer
+🌱 Currently learning: React, Node.js, MongoDB
+🚀 Interested in: Full Stack Development & Open Source
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+* Frontend: HTML, CSS, JavaScript, React
+* Backend: Node.js, Express
+* Database: MongoDB
+
+---
+
+## 📌 Projects
+
+* 🔹 Working on MERN projects
+* 🔹 Building real-world applications
+
+---
+
+## 📫 Connect with me
+
+* Email: [raishashwat14@gmail.com](mailto:raishashwat14@gmail.com)
+* LinkedIn: https://linkedin.com/in/shashwat--rai
+
+---
+
+⭐ Improving my skills every day
